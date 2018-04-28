@@ -1,0 +1,17 @@
+{
+  "name": "angelproject",
+  "version": "1.0.0",
+  "description": "project for angel sv 2018",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "ddedede"
+  ],
+  "author": "afif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
